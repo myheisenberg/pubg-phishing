@@ -59,7 +59,7 @@
      z-index: -1000; 
  }
  .body{
-  background: url("https://r.resimlink.com/XsaLgBhSqE.png") no-repeat center center fixed; 
+  background: url("https://i.hizliresim.com/396p3se.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
