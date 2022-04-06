@@ -59,7 +59,7 @@
      z-index: -1000; 
  }
  .body{
-  background: url("https://i.hizliresim.com/396p3se.jpg") no-repeat center center fixed; 
+  background: url("http://api.saray.tm/storage/items/130847/YcxTX1Qb4gu3Oe6P.jpeg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
